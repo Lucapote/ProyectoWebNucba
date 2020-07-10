@@ -139,7 +139,6 @@ article button:hover {
     font-weight: bold;
     height: 37px;
     width: 95px;
-    border: 1px solid black;
     border-radius: 20px;
     transition-duration: .5s;
 }
@@ -269,6 +268,8 @@ fieldset legend {
     height: 65px;
     width: 87%;
     padding-left: 15px;
+    padding-top: 10px;
+    font-family: helvetica;
 }
 
 .comentarios:hover {
